@@ -18,12 +18,12 @@ Please email any questions you have to brendon@shementors.com.au.
 
 **Instructions**
 
-- [x] Create a new public github repository to commit all code changes as you go
-- [x] Use [conventional commit messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) and follow git-flow with branching (feature, hotfix)
-- [x] Use [Gatsby Cloud](https://www.gatsbyjs.com/cloud/) for deployments and providing a preview link
-- [x] Use the [Gatsby](https://www.gatsbyjs.com/) static site framework
-- [x] Use [Chakra UI](https://chakra-ui.com/) or [Tailwind CSS](https://tailwindcss.com/) for all styling and layouts
-- [x] Build the following sections from the selected homepage across mobile and desktop
+- [ ] Create a new public github repository to commit all code changes as you go
+- [ ] Use [conventional commit messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) and follow git-flow with branching (feature, hotfix)
+- [ ] Use [Gatsby Cloud](https://www.gatsbyjs.com/cloud/) for deployments and providing a preview link
+- [ ] Use the [Gatsby](https://www.gatsbyjs.com/) static site framework
+- [ ] Use [Chakra UI](https://chakra-ui.com/) or [Tailwind CSS](https://tailwindcss.com/) for all styling and layouts
+- [ ] Build the following sections from the selected homepage across mobile and desktop
    - [ ] Announcement Bar
    - [ ] Header
    - [ ] Hero (exclude animation)
