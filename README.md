@@ -8,7 +8,7 @@ It's not designed to test you across complex problems, just enough to see how yo
 
 **What?**
 
-This repository has been set up as a front-end test to build a part of a responsive homepage from either of the two sites:
+This repository has been set up as a front-end test to build a part of a responsive homepage from any of the below sites:
 
  - https://stripe.com
  - https://www.zendesk.com
